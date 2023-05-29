@@ -1,0 +1,1 @@
+# Yikicilar-Destructor-ozet-anlatim
